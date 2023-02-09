@@ -1,0 +1,45 @@
+<div p>
+<div>
+  <div f></div>
+</div>
+<div c></div>
+<div r></div>
+</div>
+<style>
+  
+  body{
+    background:#6592CF;
+  }
+  div[p]{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    
+  }
+  div[f]{
+    width:15;
+    height:80;
+    background:#060F55;
+    border-radius:30px 30px 0 0;
+  }
+  div[c]{
+    width:100px;
+    height:100px;
+    background:#060F55;
+    border-radius:0 0 50% 50%;
+  }
+  div[r]{
+      width:20px;
+    height:80px;
+    background:#060F55;
+  }
+</style>
+
+<!-- OBJECTIVE -->
+<!-- Write HTML/CSS in this editor and replicate the given target image in the least code possible. What you write here, renders as it is -->
+
+<!-- SCORING -->
+<!-- The score is calculated based on the number of characters you use (this comment included :P) and how close you replicate the image. Read the FAQS (https://cssbattle.dev/faqs) for more info. -->
+
+<!-- IMPORTANT: remove the comments before submitting -->
