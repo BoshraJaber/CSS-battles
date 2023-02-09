@@ -1,0 +1,29 @@
+<div></div>
+<div f></div>
+<div s></div>
+<div t></div>
+<style>
+  body{
+    background:#62374e}
+  div{
+    width:50;
+    height:50;
+    background:#fdc57b;
+    position: absolute;
+    top:50;
+    left:50
+}
+  div[s]{
+    top:200
+  }
+   div[f]{
+    left:300
+  }
+  div[t]{
+    top:200;
+    left:300
+  }
+  
+</style>
+
+https://cssbattle.dev/play/2
