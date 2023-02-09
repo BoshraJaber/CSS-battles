@@ -1,0 +1,26 @@
+<div></div>
+<!-- <div f></div>
+<div s></div> -->
+<style>
+  body{
+  background: #0B2429}
+  div {
+    width: 100px;
+    height: 100px;
+    background: #F3AC3C;
+    border-radius: 50% 0 50% 0;
+    position: absolute;
+    top: 70px;
+    left:190px
+  }
+  div[f]{
+    top:90px;
+    left:140px;
+    background:#998235
+  }
+  div[s]{
+    top:30;
+    left:200;
+==
+  }
+</style>
