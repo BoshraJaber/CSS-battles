@@ -1,0 +1,27 @@
+<div s></div>
+<div f></div>
+<div></div>
+<style>
+  body{
+  background: #0B2429;}
+  div {
+    width: 120px;
+    height: 120px;
+    background: #F3AC3C;
+    border-radius: 50% 0 50% 50%;
+    position: absolute;
+    top: 150px;
+    left:80px
+  }
+  div[f]{
+    top:90px;
+    left:140px;
+    background:#998235
+  }
+  div[s]{
+    top:30;
+    left:200;
+    border-radius:50%;
+  }
+</style>
+https://cssbattle.dev/play/5
