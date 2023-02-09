@@ -1,0 +1,28 @@
+<div></div>
+<div u></div>
+<div d></div>
+<style>
+  body{
+    background:#62306D
+  }
+  div {
+    width: 100px;
+    height: 100px;
+    background: #F7EC7D;
+    border-radius: 0  0 50% 50% ;
+    position: absolute;
+    top:150;
+    left:50;
+  }
+  div[d]{
+    left:250
+  }
+  div[u]{
+    top:50;
+    left:150;
+    transform: rotate(3.142rad);
+  }
+  
+</style>
+
+https://cssbattle.dev/play/4
