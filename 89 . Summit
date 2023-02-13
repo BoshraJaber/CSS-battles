@@ -1,0 +1,28 @@
+<p s></p>
+<p></p>
+<style>*{background:#191919}
+    p{ width: 0; 
+         border-right: 100px solid #F9E492;
+         border-top: 100px solid #F9E492; 
+         border-left: 100px solid #F9E492; 
+         border-bottom: 100px solid #191919; 
+         border-top-left-radius: 100px; 
+         border-top-right-radius: 100px; 
+         border-bottom-left-radius: 100px; 
+         border-bottom-right-radius: 100px; 
+     position: absolute;
+     top:34px;
+     left:100px} 
+  
+  p[s]{
+         border-right: 200px solid transparent;
+         border-top: 200px solid transparent; 
+         border-left: 200px solid transparent; 
+         border-bottom: 200px solid #4F77FF;
+    top:-57px;
+    left:0px
+    
+  }
+</style>
+https://cssbattle.dev/play/89
+
